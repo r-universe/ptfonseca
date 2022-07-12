@@ -2,9 +2,5 @@
   {
     "package": "inspector",
     "oncran": true
-  },
-  {
-    "package": "pcal",
-    "oncran": true
   }
 ]
