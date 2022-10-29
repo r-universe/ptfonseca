@@ -8,8 +8,3 @@
 	url = https://github.com/ptfonseca/inspector
 	shallow = true
 	registered = true
-[submodule "pcal"]
-	path = pcal
-	url = https://github.com/ptfonseca/pcal
-	shallow = true
-	registered = true
